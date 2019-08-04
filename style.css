@@ -7,13 +7,16 @@ background-color:white;
 #h:hover {
 	background-color:green;
 	color:white;
-	font-decoration:none;
+	
+    
+    
 	
 }
 
 #ab:hover {
 	background-color:green;
 	color:white;
+	
 }
 #pr:hover {
 	background-color:green;
@@ -38,18 +41,20 @@ background-color:white;
 }
 
 #head-donate{
-	font-family:sans-serif;
+	font-family:Helvetica-Bold;
 	color:green;
 	font-size:50px
-	
+	font-weight:normal;
+	letter-spacing:2px;
 }
 
 #pgf{
- color:green;
-font-size:30px;
+color:green;
+font-size:25px;
 font-family:sans-serif;
- 
-	 }
+font-weight:normal;
+
+}
 
 
 
